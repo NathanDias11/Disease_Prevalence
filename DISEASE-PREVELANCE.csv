@@ -1,0 +1,200 @@
+AGE,GENDER,DISEASE,AREA,ALCOHOL,SMOKING,FAMILY-HISTORY
+29,1,Heart attack,VASAI,1,1,0
+40,0,heart attack,DOMBIVLI,1,1,1
+49,0,heart attack,VASAI,1,1,0
+37,1,Heart attack,VASAI,0,0,0
+48,0,heart attack,VASAI,1,1,1
+54,1,Heart attack,DOMBIVLI,1,0,0
+39,1,heart attack,DOMBIVLI,1,1,1
+45,0,Heart attack,VASAI,1,0,0
+54,1,Heart attack,DOMBIVLI,1,1,1
+37,1,heart attack,VASAI,1,1,0
+48,0,heart attack,DOMBIVLI,1,1,1
+37,1,heart attack,VASAI,1,1,1
+58,1,Heart attack,DOMBIVLI,1,0,1
+39,1,Heart attack,VASAI,0,0,0
+42,0,heart attack,DOMBIVLI,1,1,1
+33,1,Lung Cancer,VASAI,1,1,1
+42,1,Cervical Cancer,DOMBIVLI,1,0,1
+46,1,Cervical Cancer,VASAI,0,0,0
+51,1,Cervical Cancer,DOMBIVLI,0,1,0
+17,1,Lung Cancer,DOMBIVLI,1,1,1
+51,1,Cervical Cancer,VASAI,0,0,1
+44,1,Cervical Cancer,DOMBIVLI,0,0,1
+35,1,Lung Cancer,DOMBIVLI,0,0,1
+52,0,Lung Cancer,VASAI,1,1,0
+28,0,Lung Cancer,DOMBIVLI,1,1,1
+65,1,Liver diesase,DOMBIVLI,1,1,1
+62,0,Liver diesase,VASAI,1,0,1
+62,0,Liver diesase,DOMBIVLI,1,0,0
+58,0,Liver diesase,DOMBIVLI,1,0,0
+72,0,Liver diesase,VASAI,1,0,1
+46,0,Liver diesase,DOMBIVLI,1,0,0
+26,1,Liver diesase,VASAI,1,0,1
+29,1,Liver diesase,DOMBIVLI,1,0,0
+17,0,Liver diesase,VASAI,0,0,1
+55,0,Liver diesase,DOMBIVLI,1,1,0
+57,0,Liver diesase,VASAI,1,1,1
+72,0,Liver diesase,DOMBIVLI,1,0,0
+64,0,Liver diesase,VASAI,1,0,1
+74,1,Liver diesase,DOMBIVLI,1,1,1
+62,0,Liver diesase,DOMBIVLI,0,0,1
+25,0,Liver diesase,VASAI,0,0,0
+38,0,Liver diesase,DOMBIVLI,1,0,1
+33,0,Liver diesase,VASAI,1,0,1
+40,1,Liver diesase,DOMBIVLI,1,0,1
+40,1,Liver diesase,VASAI,1,0,0
+51,0,Liver diesase,DOMBIVLI,1,0,0
+51,0,Liver diesase,VASAI,1,0,1
+62,0,Liver diesase,VASAI,1,0,1
+40,0,Liver diesase,DOMBIVLI,1,0,0
+63,0,Liver diesase,VASAI,1,0,0
+34,0,Liver diesase,VASAI,0,0,1
+34,0,Liver diesase,DOMBIVLI,0,0,0
+34,0,Liver diesase,VASAI,1,0,1
+20,0,Liver diesase,DOMBIVLI,0,0,0
+84,1,Liver diesase,VASAI,1,0,1
+57,0,Liver diesase,DOMBIVLI,1,0,0
+52,0,Liver diesase,DOMBIVLI,1,0,1
+57,0,Liver diesase,VASAI,1,0,1
+38,1,Liver diesase,DOMBIVLI,1,0,1
+38,1,Liver diesase,VASAI,1,0,0
+30,0,Liver diesase,DOMBIVLI,0,0,1
+9,1,Daibetes,DOMBIVLI,0,0,1
+14,1,Daibetes,VASAI,0,0,1
+25,1,Daibetes,DOMBIVLI,0,0,1
+32,0,Daibetes,DOMBIVLI,1,0,0
+80,0,Daibetes,VASAI,1,0,1
+71,1,Daibetes,VASAI,1,0,1
+64,1,Daibetes,VASAI,1,1,0
+68,0,Daibetes,VASAI,1,0,1
+55,1,Daibetes,DOMBIVLI,0,0,0
+72,0,Daibetes,DOMBIVLI,1,0,1
+70,0,Daibetes,VASAI,1,0,0
+68,0,Daibetes,DOMBIVLI,1,0,1
+75,0,Daibetes,DOMBIVLI,1,0,1
+81,1,Daibetes,DOMBIVLI,0,0,1
+62,0,Daibetes,VASAI,1,0,0
+70,0,Daibetes,DOMBIVLI,0,0,1
+74,1,Daibetes,DOMBIVLI,0,0,1
+52,1,Daibetes,VASAI,1,0,1
+90,1,Daibetes,DOMBIVLI,1,0,0
+69,1,Daibetes,DOMBIVLI,1,1,0
+71,0,Daibetes,VASAI,0,1,1
+45,0,Daibetes,VASAI,1,0,0
+52,0,Daibetes,VASAI,1,0,1
+48,1,Daibetes,DOMBIVLI,1,0,0
+49,1,Daibetes,DOMBIVLI,1,0,1
+44,0,Kideny Stone,VASAI,0,1,0
+47,0,Kideny Stone,DOMBIVLI,0,1,1
+53,0,Kideny Stone,VASAI,1,0,0
+53,0,Skin disease ,VASAI,0,0,1
+51,1,Kideny Stone,DOMBIVLI,1,1,1
+66,0,Kideny Stone,VASAI,0,0,1
+62,0,Kideny Stone,DOMBIVLI,1,1,0
+62,1,Kideny Stone,VASAI,0,0,1
+44,0,Kideny Stone,DOMBIVLI,1,0,1
+63,0,Kideny Stone,VASAI,0,1,1
+52,0,Kideny Stone,DOMBIVLI,0,0,0
+59,1,Kideny Stone,VASAI,0,0,0
+60,0,Kideny Stone,DOMBIVLI,1,0,1
+52,1,Kideny Stone,VASAI,0,0,1
+48,0,Kideny Stone,DOMBIVLI,0,0,0
+45,1,Kideny Stone,VASAI,0,1,1
+34,0,Kideny Stone,DOMBIVLI,1,1,0
+57,1,Kideny Stone,VASAI,0,0,0
+71,0,Kideny Stone,DOMBIVLI,0,0,1
+49,1,Kideny Stone,VASAI,0,1,0
+54,0,Kideny Stone,DOMBIVLI,1,0,1
+59,1,Kideny Stone,VASAI,0,1,0
+57,1,Kideny Stone,DOMBIVLI,0,0,1
+61,1,Kideny Stone,VASAI,0,0,0
+39,1,Kideny Stone,DOMBIVLI,1,1,1
+61,1,Kideny Stone,VASAI,0,0,1
+56,0,Kideny Stone,DOMBIVLI,1,0,1
+52,0,Kideny Stone,VASAI,0,0,0
+43,1,Kideny Stone,DOMBIVLI,1,0,1
+62,1,Kideny Stone,DOMBIVLI,0,0,1
+41,0,Kideny Stone,VASAI,1,0,1
+58,0,Kideny Stone,DOMBIVLI,0,1,0
+35,1,Kideny Stone,DOMBIVLI,0,0,0
+63,1,Breast Cancer,VASAI,0,1,1
+65,1,Breast Cancer,DOMBIVLI,1,0,0
+52,1,Breast Cancer,VASAI,0,0,1
+63,1,Breast Cancer,DOMBIVLI,0,1,1
+51,1,Breast Cancer,VASAI,0,0,1
+55,1,Breast Cancer,DOMBIVLI,1,0,0
+65,1,Breast Cancer,VASAI,0,0,1
+50,1,Breast Cancer,DOMBIVLI,0,0,1
+56,1,Breast Cancer,DOMBIVLI,0,0,1
+54,1,Breast Cancer,VASAI,1,0,0
+64,1,Breast Cancer,DOMBIVLI,0,0,0
+62,1,Breast Cancer,DOMBIVLI,0,1,1
+54,1,Breast Cancer,DOMBIVLI,0,0,1
+51,1,Breast Cancer,VASAI,1,1,0
+51,1,Breast Cancer,VASAI,0,0,1
+51,1,Breast Cancer,VASAI,0,0,1
+53,1,Breast Cancer,VASAI,0,1,1
+55,1,Breast Cancer,DOMBIVLI,0,0,0
+70,1,Breast Cancer,VASAI,1,0,1
+62,1,Breast Cancer,DOMBIVLI,0,0,1
+58,1,Breast Cancer,VASAI,0,0,1
+51,1,Breast Cancer,DOMBIVLI,1,0,0
+59,1,Breast Cancer,DOMBIVLI,0,1,0
+59,1,Breast Cancer,VASAI,1,1,1
+52,1,Skin Disease ,DOMBIVLI,0,1,0
+64,1,Skin Disease ,VASAI,1,0,1
+58,0,Skin Disease ,DOMBIVLI,0,0,0
+61,1,Skin Disease ,VASAI,0,1,1
+57,0,Skin Disease ,DOMBIVLI,0,0,0
+63,1,Skin Disease ,DOMBIVLI,0,1,1
+58,1,Skin Disease ,VASAI,1,0,0
+60,0,Skin Disease ,DOMBIVLI,0,0,1
+52,0,Skin Disease ,DOMBIVLI,0,1,1
+52,0,Skin Disease ,VASAI,1,0,1
+67,1,Skin Disease ,DOMBIVLI,0,0,0
+55,1,Skin Disease ,VASAI,0,0,1
+64,1,Stroke,DOMBIVLI,1,0,1
+70,1,Stroke,DOMBIVLI,0,0,1
+51,0,Stroke,DOMBIVLI,0,0,0
+58,0,Stroke,VASAI,1,0,0
+60,0,Stroke,DOMBIVLI,0,1,1
+68,1,Stroke,DOMBIVLI,0,0,0
+46,0,Stroke,DOMBIVLI,1,1,1
+77,1,Stroke,VASAI,0,0,0
+54,0,Stroke,VASAI,1,0,1
+58,0,Stroke,DOMBIVLI,0,1,0
+48,1,Stroke,VASAI,1,0,1
+57,0,Stroke,DOMBIVLI,0,0,0
+52,1,Stroke,VASAI,1,0,1
+54,0,Stroke,DOMBIVLI,1,0,1
+35,0,Stroke,VASAI,0,0,1
+45,0,Stroke,DOMBIVLI,1,1,0
+70,1,Stroke,DOMBIVLI,0,1,1
+53,0,Stroke,VASAI,0,0,1
+59,1,Stroke,DOMBIVLI,0,0,1
+62,1,Stroke,VASAI,0,1,0
+64,1,Stroke,DOMBIVLI,1,0,0
+57,1,Stroke,DOMBIVLI,0,1,1
+52,1,Stroke,VASAI,0,0,0
+56,0,Stroke,DOMBIVLI,1,0,0
+43,0,Stroke,VASAI,0,1,1
+53,0,Stroke,DOMBIVLI,0,0,0
+48,0,Leukaemia,VASAI,0,0,1
+56,1,Leukaemia,DOMBIVLI,0,0,0
+42,1,Leukaemia,VASAI,0,0,1
+59,1,Leukaemia,DOMBIVLI,1,0,0
+60,0,Leukaemia,VASAI,0,1,0
+63,0,Leukaemia,DOMBIVLI,0,1,0
+42,1,Leukaemia,DOMBIVLI,1,0,1
+66,0,Leukaemia,VASAI,0,0,0
+54,1,Leukaemia,DOMBIVLI,1,1,1
+69,0,Leukaemia,DOMBIVLI,1,0,0
+50,0,Leukaemia,VASAI,0,1,0
+51,0,Leukaemia,DOMBIVLI,0,0,1
+43,0,Leukaemia,VASAI,1,1,0
+62,0,Leukaemia,DOMBIVLI,0,1,1
+68,1,Leukaemia,VASAI,1,0,0
+67,0,Leukaemia,VASAI,0,0,1
+69,0,Leukaemia,DOMBIVLI,1,1,0
+28,1,Leukaemia,VASAI,0,0,1
